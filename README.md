@@ -18,12 +18,13 @@ Open the YOLOv7 repository in VS Code or your preferred IDE.
 ### 2. Add Custom Python Files
 After cloning the YOLOv7 repository, paste the following custom Python scripts into the YOLOv7 folder:
 
-flaskaap.py
-flaskaap1.py
-flaskaap2.py
-flaskaap3.py
-hubconfCustom.py
-hubconfcustomweb.py
+- `flaskaap.py`
+- `flaskaap1.py`
+- `flaskaap2.py`
+- `flaskaap3.py`
+- `hubconfCustom.py`
+- `hubconfcustomweb.py`
+
 These Python scripts set up the Flask web services, handle model interactions, and manage object detection requests.
 
 ### 3. Change Model Weights
